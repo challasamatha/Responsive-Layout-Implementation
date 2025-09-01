@@ -60,7 +60,7 @@ src/
 ## ⚙️ Installation & Setup
 
 ## Clone this repository:
-   gh repo clone challasamatha/Responsive-Layout-Implementation
+   https://github.com/challasamatha/Responsive-Layout-Implementation.git
    cd Responsive-Layout-Implentation
    
 ## Install dependencies:
