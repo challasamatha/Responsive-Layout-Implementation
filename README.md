@@ -60,8 +60,8 @@ src/
 ## ⚙️ Installation & Setup
 
 ## Clone this repository:
-   git clone https://github.com/your-username/responsive-products.git
-   cd responsive-products
+   gh repo clone challasamatha/Responsive-Layout-Implementation
+   cd Responsive-Layout-Implentation
    
 ## Install dependencies:
 npm install
